@@ -4,10 +4,6 @@ Birthday Card Sample App
 Sample app that displays a birthday card. 
 I built this as a part of "Udacity Android for Beginners course".
 
-ScreenShot
---------------
-
-![alt text](file:///home/sharma/Desktop/screenshot.jpg)
 
 Pre-requisites
 --------------
